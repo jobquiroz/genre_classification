@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/genre_classification/mlruns/0/af52450f17bf4a2bbc463331017853f4/artifacts
+end_time: 1640581470774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: af52450f17bf4a2bbc463331017853f4
+run_uuid: af52450f17bf4a2bbc463331017853f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640581452210
+status: 4
+tags: []
+user_id: jobquiroz

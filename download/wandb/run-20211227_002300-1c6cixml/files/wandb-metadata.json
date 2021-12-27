@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.3.1-x86_64-i386-64bit",
+    "python": "3.10.1",
+    "heartbeatAt": "2021-12-27T06:23:02.565163",
+    "startedAt": "2021-12-27T06:23:00.134674",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/genre_classification.git",
+        "commit": "7d3735a28e471d95d661ab8232487326d52dd567"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/genre_classification",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-c2725dc625a338014a67fd8628fb72a7de192236/bin/python"
+}

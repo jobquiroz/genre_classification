@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.3.1-x86_64-i386-64bit",
+    "python": "3.9.9",
+    "heartbeatAt": "2021-12-27T06:26:41.158620",
+    "startedAt": "2021-12-27T06:26:37.548727",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-d1af8afa8c0817470df2583235eed387d09542b5/bin/pytest",
+    "git": {
+        "remote": "https://github.com/jobquiroz/genre_classification.git",
+        "commit": "7d3735a28e471d95d661ab8232487326d52dd567"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/genre_classification",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-d1af8afa8c0817470df2583235eed387d09542b5/bin/python"
+}
